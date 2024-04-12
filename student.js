@@ -6,7 +6,7 @@ function submitFun1(e) {
     e.preventDefault();
     var name = document.querySelector("#name").value;
     var number = document.querySelector("#number").value;
-    var city = document.querySelector("#city").value;
+    var city = document.querySelector("#location").value;
     var rollNo = document.querySelector("#rollNo").value;
 
     var studentObj = {

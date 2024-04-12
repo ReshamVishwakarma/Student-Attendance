@@ -6,7 +6,7 @@
 .heading{
     width: 100%;
     /* height: 100px; */
-    background-color: green;
+    background-color:#2a6592;
     font-size: 48px;
     color: white;
     text-align: center;
@@ -16,7 +16,7 @@
 
 #school{
     font-size: 48px;
-    color: deeppink;
+    color: rgb(45, 5, 80);
     text-align: center;
     padding: 20px;
     font-family: sans-serif;
@@ -81,7 +81,7 @@
       margin: auto;
       margin-top: 20px;
       font-size: 38px;
-      background-color: green;
+      background-color: #2a6592;
         color: white;
     text-align: center;
     padding: 10px;
@@ -121,7 +121,7 @@ color: white;
 
 .studentData{
     width: 100%;
-    background-color: green;
+    background-color: #2a6592;
     padding: 15px;
 
 }
@@ -159,10 +159,10 @@ color: white;
 } 
 
 .td6 > button:nth-child(1){
-    background-color: green;
+    background-color: #3898ec;
 }
 .td6 > button:nth-child(2){
-    background-color: red;
+    background-color:#3898ec;
 }
 
 #absent{
